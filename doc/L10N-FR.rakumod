@@ -1,0 +1,41 @@
+=begin pod
+
+=head1 NAME
+
+L10N::FR - French localization of Raku
+
+=head1 SYNOPSIS
+
+=begin output
+$ freku -e 'dis "Bonjour Monde"'
+Bonjour Monde
+=end output
+
+=begin code :lang<raku>
+
+use L10N::FR;
+dis "Bonjour Monde";
+
+=end code
+
+=head1 DESCRIPTION
+
+The C<L10N::NL> distribution contains the logic to provide a Dutch
+localization of the Raku Programming Language.  It installs a
+C<nedku> executable that will automatically activate the Dutch
+localization.  And it allows one to use the Dutch localization
+in selected programs with a C<use L10N::NL> statement.
+
+=head1 AUTHORS
+
+Lucien Grondin
+
+=head1 COPYRIGHT AND LICENSE
+
+Copyright 2023, 2025 Raku Localization Team
+
+This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
+
+=end pod
+
+# vim: expandtab shiftwidth=4

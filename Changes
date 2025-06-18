@@ -1,0 +1,9 @@
+Revision history for L10N-FR
+
+{{$NEXT}}
+    - Add support for "freku" executable
+    - Update several translations
+    - Update copyright year
+
+0.0.1  2023-12-17T13:56:02+01:00
+    - Initial version
