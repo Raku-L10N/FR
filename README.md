@@ -10,6 +10,8 @@ SYNOPSIS
 
     $ freku -e 'dis "Bonjour Monde"'
     Bonjour Monde
+    $ brie -e 'dis "Bonjour Monde"'
+    Bonjour Monde
 
 ```raku
 use L10N::FR;
@@ -19,7 +21,7 @@ dis "Bonjour Monde";
 DESCRIPTION
 ===========
 
-The `L10N::FR` distribution contains the logic to provide a French localization of the Raku Programming Language. It installs a `nedku` executable that will automatically activate the French localization. And it allows one to use the French localization in selected programs with a `use L10N::FR` statement.
+The `L10N::FR` distribution contains the logic to provide a French localization of the Raku Programming Language. It also installs a `nedku` executable and a `brie` executable that will automatically activate the French localization. And it allows one to use the French localization in selected programs with a `use L10N::FR` statement.
 
 AUTHORS
 =======

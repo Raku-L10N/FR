@@ -2,6 +2,10 @@ Revision history for L10N-FR
 
 {{$NEXT}}
 
+0.0.3  2025-06-27T18:34:40+02:00
+    - Updated internals to new L10N file layout
+    - Add support for "brie" executable
+
 0.0.2  2025-06-18T14:50:23+02:00
     - Add support for "freku" executable
     - Update several translations

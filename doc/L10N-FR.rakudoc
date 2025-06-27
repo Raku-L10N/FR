@@ -9,6 +9,8 @@ L10N::FR - French localization of Raku
 =begin output
 $ freku -e 'dis "Bonjour Monde"'
 Bonjour Monde
+$ brie -e 'dis "Bonjour Monde"'
+Bonjour Monde
 =end output
 
 =begin code :lang<raku>
@@ -21,10 +23,10 @@ dis "Bonjour Monde";
 =head1 DESCRIPTION
 
 The C<L10N::FR> distribution contains the logic to provide a French
-localization of the Raku Programming Language.  It installs a
-C<nedku> executable that will automatically activate the French
-localization.  And it allows one to use the French localization
-in selected programs with a C<use L10N::FR> statement.
+localization of the Raku Programming Language.  It also installs a
+C<nedku> executable and a C<brie> executable that will automatically
+activate the French localization.  And it allows one to use the French
+localization in selected programs with a C<use L10N::FR> statement.
 
 =head1 AUTHORS
 

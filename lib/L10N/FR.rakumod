@@ -1,7 +1,7 @@
 # This file contains the French Slang of the Raku Programming Language
 
 #- start of generated part of localization ------------------------------------
-#- Generated on 2025-06-18T14:46:15+02:00 by ./update-localization
+#- Generated on 2025-06-27T17:54:58+02:00 by ./update-localization
 #- PLEASE DON'T CHANGE ANYTHING BELOW THIS LINE
 
 role L10N::FR {
